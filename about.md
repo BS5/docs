@@ -1,3 +1,7 @@
+---
+title: About
+---
+
 # About
 
 This is a test to see how markdown files show.
